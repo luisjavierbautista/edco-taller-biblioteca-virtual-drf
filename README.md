@@ -218,6 +218,7 @@ Puedes acceder a la interfaz navegable de DRF directamente desde tu navegador:
 - Django 5.2.7
 - Django REST Framework 3.16.1
 - djangorestframework-simplejwt 5.5.1
+- django-cors-headers
 - SQLite (base de datos)
 
 ## Autor

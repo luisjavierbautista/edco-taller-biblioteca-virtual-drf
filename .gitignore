@@ -24,6 +24,8 @@ local_settings.py
 
 # IDE
 .vscode/
+.claude/
+.cursor/
 .idea/
 *.swp
 *.swo
@@ -32,4 +34,8 @@ local_settings.py
 # OS
 .DS_Store
 Thumbs.db
+
+# Entorno
+.env
+
 
