@@ -1,0 +1,27 @@
+{
+    "id": 2,
+    "libro_detalle": {
+        "id": 8,
+        "titulo": "Cien A\u00f1os de Soledad",
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "isbn": "9780060883287",
+        "fecha_publicacion": "1967-05-30",
+        "disponible": true,
+        "created_at": "2025-10-07T00:48:52.554494Z",
+        "updated_at": "2025-10-07T00:48:52.554521Z"
+    },
+    "usuario_detalle": {
+        "id": 2,
+        "username": "juan_perez",
+        "email": "juan@example.com",
+        "first_name": "Juan",
+        "last_name": "P\u00e9rez",
+        "rol": "Estudiante",
+        "ciudad": "Medell\u00edn"
+    },
+    "fecha_prestamo": "2025-10-07T00:48:52.737569Z",
+    "fecha_devolucion": "2025-10-21",
+    "devuelto": false,
+    "usuario": 2,
+    "libro": 8
+}
